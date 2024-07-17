@@ -154,7 +154,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_firstName: Christophe
   m_lastName: Fanchamps
-  m_portfolioUrl: abcd
+  m_portfolioUrl: https://fanchampsc.wixsite.com/fanchampschristophe
   m_githubUrl: abcd
   m_linkedinUrl: abcd
 --- !u!114 &8193325777095512039
